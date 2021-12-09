@@ -1,5 +1,6 @@
 # GitHub-Tutorial-2
 ## Git and Github Tutorial Part 2
+## To view the assignment table repo, <a href="https://github.com/sujal7/Leapfrog-Assignments">Click Here</a>
 ## List of commands used:
 <ul>
 <li>git reset</li>
